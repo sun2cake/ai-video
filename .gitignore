@@ -1,0 +1,14 @@
+node_modules
+.venv
+dist
+build
+.DS_Store
+.env*
+.idea
+.vscode
+.claude
+.codex
+.agents
+
+# Ignore the output video from Git but not videos you import into src/.
+out
